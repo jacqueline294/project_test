@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My test app</string>
+    <string name="button">welcome</string>
+    <string name="welcome_message">TextView</string>
+    <string name="logo">logo</string>
+</resources>
